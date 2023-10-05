@@ -3,13 +3,13 @@
 # 运行
 ```bash
 cd install/rknn_yolov5_bt_demo_Linux/
-./rknn_yolov5_tb_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4
+./rknn_yolov5_bt_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4
 ```
 # 源码
 yuanma.zip
 # 测试日志
 ```
-./rknn_yolov5_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4 
+./rknn_yolov5_bt_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4 
 Model name:     model/best_nofocus_new_21x80x80.rknn
 Open video path:        model/PRC_9resize.mp4
 Init ByteTrack!
