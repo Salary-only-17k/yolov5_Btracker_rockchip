@@ -1,12 +1,13 @@
 # [Find a full-time job]
 在rk三五八八上面，运行yolov5 + bytetrack代码。 
+用到技术：权重值复用，多线程池。
 # 运行
 ```bash
 cd install/rknn_yolov5_bt_demo_Linux/
 ./rknn_yolov5_bt_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4
 ```
 # 源码
-yuanma.zip
+yolov5_bytrack.zip   压缩包作了加密。
 # 测试日志
 ```
 ./rknn_yolov5_bt_demo model/best_nofocus_new_21x80x80.rknn model/PRC.mp4 
